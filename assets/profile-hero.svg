@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="XuYingJie — AI agents, vision and developer tools"><title>XuYingJie — AI agents, vision and developer tools</title>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1725"/><stop offset="1" stop-color="#10282c"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#41735f" stop-opacity=".3"/><stop offset="1" stop-color="#41735f" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#78b3ab" opacity=".18"/></pattern>
+  <clipPath id="clip"><rect width="1280" height="380" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1280" height="380" fill="url(#background)"/>
+  <rect x="660" width="620" height="380" fill="url(#dots)"/>
+  <ellipse cx="1080" cy="220" rx="260" ry="220" fill="url(#glow)"/>
+  <path d="M660 0V380" stroke="#283b43" stroke-dasharray="3 8" opacity=".45"/>
+  <circle cx="1125" cy="84" r="27" fill="#e4b77c"/>
+  <circle cx="1135" cy="75" r="27" fill="#14282f"/>
+  <path d="M706 100 C789 123, 800 281, 906 288 S1091 100, 1252 99" fill="none" stroke="#6dd9b8" stroke-width="2" opacity="0.72"/><path d="M706 119 C789 142, 800 300, 906 307 S1091 119, 1252 118" fill="none" stroke="#346963" stroke-width="1.2" opacity="0.6849999999999999"/><path d="M706 138 C789 161, 800 319, 906 326 S1091 138, 1252 137" fill="none" stroke="#346963" stroke-width="1.2" opacity="0.6499999999999999"/><path d="M706 157 C789 180, 800 338, 906 345 S1091 157, 1252 156" fill="none" stroke="#6dd9b8" stroke-width="2" opacity="0.615"/><path d="M706 176 C789 199, 800 357, 906 364 S1091 176, 1252 175" fill="none" stroke="#346963" stroke-width="1.2" opacity="0.58"/><path d="M706 195 C789 218, 800 376, 906 383 S1091 195, 1252 194" fill="none" stroke="#346963" stroke-width="1.2" opacity="0.5449999999999999"/><path d="M706 214 C789 237, 800 395, 906 402 S1091 214, 1252 213" fill="none" stroke="#6dd9b8" stroke-width="2" opacity="0.51"/><path d="M706 233 C789 256, 800 414, 906 421 S1091 233, 1252 232" fill="none" stroke="#346963" stroke-width="1.2" opacity="0.475"/><path d="M706 252 C789 275, 800 433, 906 440 S1091 252, 1252 251" fill="none" stroke="#346963" stroke-width="1.2" opacity="0.43999999999999995"/>
+  <circle cx="906" cy="288" r="5" fill="#94eed0"/>
+  <circle cx="906" cy="288" r="13" fill="none" stroke="#94eed0" opacity=".3"/>
+  <path d="M1033 78v14m-7-7h14" stroke="#83b6a9" stroke-width="1.5"/>
+  <path d="M1203 186v10m-5-5h10" stroke="#e4b77c" stroke-width="1.5"/>
+  <text x="64" y="62" fill="#85cfbc" font-family="Consolas, monospace" font-size="15" letter-spacing="2">VANISHVALLEY / PERSONAL LAB</text>
+  <text x="60" y="170" fill="#f3f6f3" font-family="Arial, sans-serif" font-size="84" font-weight="700" letter-spacing="-3">XuYingJie</text>
+  <text x="64" y="219" fill="#b8c9cd" font-family="Arial, sans-serif" font-size="25">AI agents. Vision. Useful tools.</text>
+  <rect x="64" y="261" width="83" height="34" rx="17" fill="#243a3c" stroke="#45615b"/>
+  <text x="105" y="283" text-anchor="middle" fill="#a6e5d0" font-family="Consolas, monospace" font-size="14">JAVA</text>
+  <rect x="158" y="261" width="98" height="34" rx="17" fill="#253034" stroke="#65584a"/>
+  <text x="207" y="283" text-anchor="middle" fill="#e8c28f" font-family="Consolas, monospace" font-size="14">PYTHON</text>
+  <text x="64" y="346" fill="#7e9d9f" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">EXPLORE THE IDEA. BUILD THE TOOL.</text>
+  <text x="1216" y="346" text-anchor="end" fill="#729d92" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">&lt; / &gt;</text>
+</g></svg>

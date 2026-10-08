@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-label="Xcode Agent — project cover"><title>Xcode Agent — project cover</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10232d"/><stop offset="1" stop-color="#12382f"/></linearGradient></defs>
+<rect width="600" height="240" rx="12" fill="url(#bg)"/>
+<path d="M400 0v240m48-240v240m48-240v240m48-240v240m48-240v240M380 48h220M380 96h220M380 144h220M380 192h220" stroke="#438374" opacity=".13"/>
+<text x="30" y="37" fill="#76c8ac" font-family="Consolas, monospace" font-size="12" letter-spacing="1.8">01 / AGENT ENGINEERING</text>
+<text x="28" y="88" fill="#eff8f3" font-family="Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="-1">Xcode Agent</text>
+<text x="30" y="121" fill="#96bdb1" font-family="Consolas, monospace" font-size="14">PLAN. ACT. VERIFY.</text>
+<path d="M183 183h32m156 0h32" stroke="#6baf97" stroke-width="2"/>
+<path d="m209 178 6 5-6 5m188-10 6 5-6 5" fill="none" stroke="#6baf97" stroke-width="2"/>
+<g fill="#152c2d" stroke="#427561"><rect x="30" y="158" width="153" height="50" rx="9"/><rect x="215" y="158" width="156" height="50" rx="9"/><rect x="403" y="158" width="166" height="50" rx="9"/></g>
+<g fill="#b4edcf" font-family="Consolas, monospace" font-size="16" text-anchor="middle"><text x="106" y="189">PLANNER</text><text x="293" y="189">TOOLS</text><text x="486" y="189">REVIEWER</text></g>
+<path d="m521 42-12 12 12 12m25-24 12 12-12 12m-9-29-8 34" fill="none" stroke="#83d8b6" stroke-width="3" opacity=".75"/>
+</svg>
