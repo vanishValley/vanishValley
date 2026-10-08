@@ -6,7 +6,7 @@ AI 方向研究生，关注深度学习、计算机视觉，以及把模型接�
 
 这里记录我的项目与技术探索：用 **Java** 构建编程 Agent，用 **Python** 串联生成模型、图像处理和应用服务。
 
-[Xcode Agent](https://github.com/vanishValley/Xcode) · [sevenCow](https://github.com/vanishValley/sevenCow) · [All repositories](https://github.com/vanishValley?tab=repositories)
+[Xcode Agent](https://github.com/vanishValley/Xcode) · [SpriteForge](https://github.com/vanishValley/SpriteForge) · [All repositories](https://github.com/vanishValley?tab=repositories)
 
 ## 代表项目
 
@@ -24,7 +24,7 @@ AI 方向研究生，关注深度学习、计算机视觉，以及把模型接�
 
 [快速开始](https://github.com/vanishValley/Xcode#快速开始) · [Team 设计](https://github.com/vanishValley/Xcode/blob/main/docs/team-mode-implementation.md) · [记忆设计](https://github.com/vanishValley/Xcode/blob/main/docs/memory_design.md) · [评测设计](https://github.com/vanishValley/Xcode/blob/main/docs/agent-evaluation-design.md)
 
-### [sevenCow · 2D 游戏素材生成器](https://github.com/vanishValley/sevenCow)
+### [SpriteForge · 2D 游戏素材生成器](https://github.com/vanishValley/SpriteForge)
 
 **把文字描述转成可以下载的游戏素材。** 支持角色、场景、道具、UI 和特效，串联提示词优化、图像与视频生成、背景移除、抽帧和精灵表导出。
 
@@ -36,7 +36,7 @@ AI 方向研究生，关注深度学习、计算机视觉，以及把模型接�
 
 `Python` `FastAPI` `OpenCV` `Pillow` `rembg`
 
-[运行说明](https://github.com/vanishValley/sevenCow#快速开始) · [生成流程](https://github.com/vanishValley/sevenCow/blob/master/main.py) · [抽帧与精灵表](https://github.com/vanishValley/sevenCow/blob/master/frame_extractor.py)
+[运行说明](https://github.com/vanishValley/SpriteForge#快速开始) · [生成流程](https://github.com/vanishValley/SpriteForge/blob/master/main.py) · [抽帧与精灵表](https://github.com/vanishValley/SpriteForge/blob/master/frame_extractor.py)
 
 ## 我关注的工程问题
 
