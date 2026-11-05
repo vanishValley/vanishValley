@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/vanishValley/Xcode"><img src="./assets/xcode-cover.svg" alt="Xcode Agent：规划、工具调用与验收" width="100%" /></a>
 <h3><a href="https://github.com/vanishValley/Xcode">Xcode Agent</a></h3>
 <p>Java 17 终端编程助手，包含模型执行循环、任务规划、工具系统和自动化评测。</p>
@@ -30,7 +30,7 @@
 <p><code>Java 17</code> <code>Maven</code> <code>MCP</code> <code>OpenTelemetry</code></p>
 <p><a href="https://github.com/vanishValley/Xcode#快速开始">运行指南</a> &nbsp; · &nbsp; <a href="https://github.com/vanishValley/Xcode/blob/main/docs/agent-evaluation-verification.md">验证记录</a></p>
 </td>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 <a href="https://github.com/vanishValley/content-scheduling-agent"><img src="./assets/scheduling-cover.svg" alt="素材审核与发布排期 Agent：审核、时段查询与草稿确认" width="100%" /></a>
 <h3><a href="https://github.com/vanishValley/content-scheduling-agent">素材审核与发布排期 Agent</a></h3>
 <p>校招题目实践：模型依据工具结果处理素材风险与时段冲突，保存可供人工确认的排期草稿。</p>
@@ -42,14 +42,20 @@
 <p><code>Node.js</code> <code>Tool Calling</code> <code>Kimi</code> <code>Evaluation</code></p>
 <p><a href="https://github.com/vanishValley/content-scheduling-agent/blob/main/docs/03-evaluation.md">实际输出与 Trace</a> &nbsp; · &nbsp; <a href="https://github.com/vanishValley/content-scheduling-agent/blob/main/docs/04-ai-usage.md">AI 辅助范围</a></p>
 </td>
+<td width="33%" valign="top">
+<a href="https://github.com/vanishValley/SpriteForge"><img src="./assets/spriteforge-cover.svg" alt="SpriteForge：提示词、视频抽帧与游戏素材导出" width="100%" /></a>
+<h3><a href="https://github.com/vanishValley/SpriteForge">SpriteForge</a></h3>
+<p>Python / FastAPI 2D 游戏素材生成工具，连接模型生成、图像处理和素材导出。</p>
+<ul>
+  <li>提示词优化、图像与视频生成</li>
+  <li>视频抽帧、背景移除与精灵表拼接</li>
+  <li>生成任务管理、PNG 与 JSON 打包导出</li>
+</ul>
+<p><code>Python</code> <code>FastAPI</code> <code>OpenCV</code> <code>rembg</code></p>
+<p><a href="https://github.com/vanishValley/SpriteForge#快速开始">运行指南</a> &nbsp; · &nbsp; <a href="https://github.com/vanishValley/SpriteForge/blob/master/frame_extractor.py">抽帧实现</a></p>
+</td>
 </tr>
 </table>
-
-### 相关应用：SpriteForge
-
-[SpriteForge](https://github.com/vanishValley/SpriteForge) 是一个 Python / FastAPI 的 2D 游戏素材生成工具。它将提示词优化、图像与视频生成、抽帧、背景移除和精灵表导出串成工作流。
-
-[运行指南](https://github.com/vanishValley/SpriteForge#快速开始) · [视频抽帧实现](https://github.com/vanishValley/SpriteForge/blob/master/frame_extractor.py) · [素材后处理](https://github.com/vanishValley/SpriteForge/blob/master/postprocess.py)
 
 ## 实现与验证
 
@@ -60,5 +66,6 @@
 | 如何独立检查 Agent 的执行结果 | [Xcode 评测设计](https://github.com/vanishValley/Xcode/blob/main/docs/agent-evaluation-design.md) |
 | 模型如何根据不同结果改变动作 | [排期 Agent 的真实执行记录](https://github.com/vanishValley/content-scheduling-agent/tree/main/examples/live) |
 | 一次真实误判如何被发现和修正 | [缺资料场景的回归记录](https://github.com/vanishValley/content-scheduling-agent/tree/main/examples/regressions/missing-before-clarification) |
+| 生成素材如何处理和导出 | [SpriteForge 后处理实现](https://github.com/vanishValley/SpriteForge/blob/master/postprocess.py) |
 
 项目的运行条件、验证方式和限制写在各自 README 中。欢迎通过 [GitHub Issues](https://github.com/vanishValley/Xcode/issues) 交流实现细节。
